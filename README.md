@@ -11,13 +11,13 @@ I'm recently completed a Ph.D. in Biomedical Informatics with a focus in Healthc
 
 ## Advocacy and Outreach
 
-Understanding and being a beneficiary of the power of community and representation, I'm the Executive Director of BlackTIDES Data a volunteer organization where I serve as the Informatics Lead. BlackTIDES Data aims to connect with, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences. I also curate a newslwetter in Healthcare Data Science, Health Disparities, and Computational Biology where I share my insights, latest research findings, and analysis using the latest data analytics tools to foster a deeper understanding among professionals and enthusiasts alike. Through these platforms, I am committed to uplifting and expanding the representation of Black professionals in STEM fields, ensuring they have the network and knowledge to excel and thrive. 
+Understanding and being a beneficiary of the power of community and representation, I'm the Executive Director of BlackTIDES Data a volunteer organization where I serve as the Director of Informatics and Epidemiology. BlackTIDES Data (BTD) aims to connect with, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences. I also curate a newslwetter in Healthcare Data Science, Health Disparities, and Computational Biology where I share my insights, latest research findings, and analysis using the latest data analytics tools to foster a deeper understanding among professionals and enthusiasts alike. Through these platforms, I am committed to uplifting and expanding the representation of Black professionals in STEM fields, ensuring they have the network and knowledge to excel and thrive. 
 
 ### Let's Connect
 
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
 
-- 🌐 Visit my [website](https://btdata.my.canva.site/kimformatics) for more on my work and social media links.
+- 🌐 Visit my [website](https://kimformatics.com) for more on my work and social media links.
 
 - [I manage two newsletters where I share interesting insights and updates from my two areas of expertise. Take a look below!
   - [Chemical Informatics / Computational Toxicology Newsletter, Data for Wellbeing](https://[https://[https://infotoxinsights.substack.com/)
