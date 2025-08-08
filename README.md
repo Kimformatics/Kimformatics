@@ -12,7 +12,7 @@ I recently completed a Ph.D. in Biomedical Informatics with a focus in Healthcar
 
 ## Advocacy and Outreach
 
-Understanding and being a beneficiary of the power of community and representation, also curate newsletters in Computational / Environmental Toxicology and Chemical Informatics, as well as Healthcare Data Science and Health Disparities, where I share my insights, latest research findings, and analysis using the latest data analytics tools to foster a deeper understanding among professionals and enthusiasts alike. Through these platforms, I am committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, ensuring they have the network and knowledge to excel and thrive.
+Understanding and being a beneficiary of the power of community and representation, I also curate newsletters in Computational / Environmental Toxicology and Chemical Informatics, as well as Healthcare Data Science and Health Disparities, where I share my insights, latest research findings, and analysis using the latest data analytics tools to foster a deeper understanding among professionals and enthusiasts alike. Through these platforms, I am committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, ensuring they have the network and knowledge to excel and thrive.
 
 ### Let's Connect
 
