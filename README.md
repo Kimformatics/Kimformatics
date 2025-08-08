@@ -1,6 +1,6 @@
 ## Welcome! 👋🏾
 
-Hi I'm Dr. Kimberly Deas a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
+Hi I'm Dr. Kimberly Deas a Prinicpal Level Data Scientist / Informaticist, Chemist / Computational Toxocologist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
 
 ## My Career and What I Do
 In my career journey, I have had a number of roles, including Lab Director, Bench Research Scientist, Chemical Informatics Manager, Health Data Analyst, and now Prinicpal Informaticist / Clinical Data Scientist.
