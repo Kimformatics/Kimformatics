@@ -26,9 +26,8 @@ Understanding and being a beneficiary of the power of community and representati
 
 - Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
 
-- 💼 Interested in learning more about BlackTIDES Data? Follow us on social media to stay updated with our latest news and events.
-  - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
-  - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData)
-  - [Threads](https://www.threads.net/@blacktidesdata)
+- 💼 Interested in learning more about me and my career? Follow me on social media!
+  - [LinkedIn](www.linkedin.com/in/ddkimberly)
+  - [Threads](https://www.threads.com/@dr.kimformatics)
 
 
