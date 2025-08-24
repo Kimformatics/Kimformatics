@@ -18,8 +18,8 @@ Understanding and benefiting from the power of community and representation, I f
 
 - 🌐 Visit my [website](https://kimformatics.com) for more on my work and social media links.
 
-- [I manage two newsletters where I share interesting insights and updates in how data can be used to better human health and in changing careers, midlife! Take a look below!
-  - [My Health, Environment, and Data newsletter explores how artificial intelligence and machine learning can advance human health across Environmental Toxicology, Health Disparities, and Health Data Science, The Health, The Environment, and the Data Newsletter, ([https://(https://healthenvironmentanddata.substack.com/))
+- I manage two newsletters where I share interesting insights and updates in how data can be used to better human health and in changing careers, midlife! Take a look below!
+  - My Health, Environment, and Data newsletter explores how artificial intelligence and machine learning can advance human health across Environmental Toxicology, Health Disparities, and Health Data Science, [The Health, The Environment, and the Data], ([https://(https://healthenvironmentanddata.substack.com/))
     
   - Here, I'm sharing my expereinces as a middle age Engineering graduate student at Johns Hopkins University, [Say What Now? Middle age to Engineering ](https://saywhatnowmiddleagetoengineering.substack.com/)
 
