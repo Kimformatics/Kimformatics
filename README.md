@@ -25,8 +25,7 @@ Understanding and benefiting from the power of community and representation, I f
 
 - Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
 
-- 💼 Interested in learning more about me and my career? Follow me on social media!
-  - [LinkedIn](www.linkedin.com/in/ddkimberly)
-  - [Threads](https://www.threads.com/@dr.kimformatics)
+- 💼 Interested in learning more about me and my career? Follow me on social media on LinkedIn, [LinkedIn](www.linkedin.com/in/ddkimberly).
+  
 
 
