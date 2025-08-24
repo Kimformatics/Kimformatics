@@ -23,9 +23,9 @@ Understanding and benefiting from the power of community and representation, I f
     
   - Here, I'm sharing my expereinces as a middle age Engineering graduate student at Johns Hopkins University, [Say What Now? Middle age to Engineering ](https://saywhatnowmiddleagetoengineering.substack.com/)
 
-- Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
-
-- 💼 Interested in learning more about me and my career? Follow me on [LinkedIn](www.linkedin.com/in/ddkimberly).
+- Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1)
+  
+- Interested in learning more about me and my career? Follow me on [LinkedIn](www.linkedin.com/in/ddkimberly).
   
 
 
