@@ -16,7 +16,7 @@ Understanding and benefiting from the power of community and representation, I f
 
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
 
-- 🌐 Visit my [website](https://kimformatics.com) for more on my work and social media links.
+- 🌐 Visit my [website](https://kimformatics.com) for more on my work and the Consulting services I provide.
 
 - I manage two newsletters where I share interesting insights and updates in how data can be used to better human health and in changing careers, midlife! Take a look below!
   - My Health, Environment, and Data newsletter explores how artificial intelligence and machine learning can advance human health across Environmental Toxicology, Health Disparities, and Health Data Science, [The Health, The Environment, and the Data](https://(https://healthenvironmentanddata.substack.com/)). I also share educational tips and tricks in Health Data Analytics too.
