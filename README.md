@@ -10,7 +10,7 @@ I'm a Principal Analytics Research Scientist with a PhD in Biomedical Informatic
 
 ## Advocacy and Outreach
 
-Understanding and benefiting from the power of community and representation, I frequently share my professional experiences on LinkedIn and curate newsletters in Computational and Environmental Toxicology, Chemical Informatics, Healthcare Data Science, and Health Disparities. Through these platforms, I share insights, latest research findings, and analyses using cutting-edge data analytics tools to foster deeper understanding among professionals and enthusiasts alike. I am committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, working to ensure they have access to the networks and knowledge needed to excel and thrive in their careers.
+Understanding and benefiting from the power of community and representation, I frequently share my professional experiences on LinkedIn and curate a newsletter called "The Health, The Environment, and The Data to share my knowledge in Computational and Environmental Toxicology, Chemical Informatics, Healthcare Data Science, and Health Disparities. Through these platforms, I share insights, latest research findings, and analyses using cutting-edge data analytics tools to foster deeper understanding among professionals and enthusiasts alike. More than that, I'm dedicated and committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, working to ensure they have access to the networks and knowledge needed to excel and thrive in their careers.
 
 ### Let's Connect
 
@@ -19,11 +19,11 @@ Understanding and benefiting from the power of community and representation, I f
 - 🌐 Visit my [website](https://kimformatics.com) for more on my work and the Consulting services I provide.
 
 - I manage two newsletters where I share interesting insights and updates in how data can be used to better human health and in changing careers, midlife! Take a look below!
-  - My Health, Environment, and Data newsletter explores how artificial intelligence and machine learning can advance human health across Environmental Toxicology, Health Disparities, and Health Data Science, [The Health, The Environment, and the Data](https://(https://healthenvironmentanddata.substack.com/)). I also share educational tips and tricks in Health Data Analytics too.
+  - My Health, Environment, and Data newsletter explores how artificial intelligence and machine learning can advance human health across Environmental Toxicology, Health Disparities, and Health Data Science, [The Health, The Environment, and the Data](https://(https://healthenvironmentanddata.substack.com/)). I discuss health disparities and share educational tips and tricks in Health Data Analytics too.
     
   - Here, I'm sharing my expereinces as a middle age Engineering graduate student at Johns Hopkins University, [Say What Now? Middle age to Engineering ](https://saywhatnowmiddleagetoengineering.substack.com/)
 
-- Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1)
+- You can also follow me on Threads: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1)
   
 - Interested in learning more about me and my career? Follow me on [LinkedIn](www.linkedin.com/in/ddkimberly).
   
