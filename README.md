@@ -10,7 +10,7 @@ I'm a Principal Informatics Scientist with a PhD in Biomedical Informatics, Mast
 
 ## Advocacy and Outreach
 
-Understanding and benefiting from the power of community and representation, I frequently share my professional experiences on LinkedIn and curate a newsletter called "The Health, The Environment, and The Data to share my knowledge in Computational and Environmental Toxicology, Chemical Informatics, Healthcare Data Science, and Health Disparities. Through these platforms, I share insights, latest research findings, and analyses using cutting-edge data analytics tools to foster deeper understanding among professionals and enthusiasts alike. More than that, I'm dedicated and committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, working to ensure they have access to the networks and knowledge needed to excel and thrive in their careers.
+Understanding and benefiting from the power of community and representation, I frequently share my professional experiences on LinkedIn and curate a newsletter called "The Health, The Data, and The Environment to share my knowledge in Environmental and Chemical Informatics, Computational and Environmental Toxicology, Healthcare Data Science, and Health Disparities. Through these platforms, I share insights, latest research findings, and analyses using cutting-edge data analytics tools to foster deeper understanding among professionals and enthusiasts alike. More than that, I'm dedicated and committed to uplifting and expanding the representation of women and racial and gender minorities in STEM fields, working to ensure they have access to the networks and knowledge needed to excel and thrive in their careers.
 
 ### Let's Connect
 
